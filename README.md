@@ -40,6 +40,11 @@ You can use the book during the entire lifecycle from complete PCI unawareness t
 
 ## Useful PCI DSS materials
 
+* [The PCI Security Standards Council Website](https://pcisecuritystandards.org)
+* [PCI DSS 4.0](https://www.pcisecuritystandards.org/documents/PCI-DSS-v4_0.pdf)
+* [Summary of Changes from 3.2.1 to 4.0](https://www.pcisecuritystandards.org/documents/PCI-DSS-v3-2-1-to-v4-0-Summary-of-Changes-r1.pdf)
+* [PCI DSS 4.0 At a Glance](https://www.pcisecuritystandards.org/documents/PCI-DSS-v4-0-At-A-Glance.pdf?agreement=true&time=1653413091750)
+* [PCI DSS FAQs](https://www.pcisecuritystandards.org/faqs)
 * [Sample Cybersecurity Policy Option 1](https://www.instantsecuritypolicy.com/information-security-policy.html)
 * [Sample Cybersecurity Policy Option 2](https://www.complianceforge.com/products.html)
 
