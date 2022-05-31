@@ -1,14 +1,6 @@
 # PCI Compliance, 5th Edition
 
-Welcome to the support site for PCI Compliance, 5th Edition! We're glad you're here. Meet the team!
-
-* Primary Authors
-  * Branden Williams
-  * James Adamson
-* Technical Editor
-  * Yousef Hamade
-* Foreword
-  * Andi Baritchi
+Welcome to the support site for PCI Compliance, 5th Edition! We're glad you're here. 
 
 ## Items up First
 
