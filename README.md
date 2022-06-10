@@ -1,6 +1,6 @@
 # PCI Compliance, 5th Edition
 
-Welcome to the support site for PCI Compliance, 5th Edition! We're glad you're here. 
+Welcome to the support site for PCI Compliance, 5th Edition! We're glad you're here. Scroll to the bottom for our contact info.
 
 ## Items up First
 
@@ -81,6 +81,7 @@ This section contains videos of exciting PCI DSS compliance discussions – with
   * [Facebook](https://www.facebook.com/BrandenRWilliams)
   * [LinkedIn](http://www.linkedin.com/in/bwilliams)
   * [YouTube](https://www.youtube.com/channel/UCLusUT6j6Uh79yoy9Vmm1Mw)
+  * [GitHub](https://github.com/captbrando)
 * James K. Adamson
   * [Website](http://www.jameskadamson.com)
   * [Twitter](https://twitter.com/jameskadamson/) 
