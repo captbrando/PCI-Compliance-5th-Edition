@@ -4,7 +4,7 @@ Welcome to the support site for PCI Compliance, 5th Edition! We're glad you're h
 
 ## Items up First
 
-Did you find an issue in the book or want to suggest something for the site? [Submit issues here](https://github.com/captbrando/PCI-Compliance-5th-Edition/issues/new/choose)! We have published the [Errata here](https://github.com/captbrando/PCI-Compliance-5th-Edition/wiki/Errata). Interested in a discussion? [Start one here](https://github.com/captbrando/PCI-Compliance-5th-Edition/discussions).
+Did you find an issue in the book or want to suggest something for the site? [Submit issues here](https://github.com/captbrando/PCI-Compliance-5th-Edition/issues/new/choose)! We have published the [Errata here](https://github.com/captbrando/PCI-Compliance-5th-Edition/wiki/Errata). Interested in a discussion? [Start one here](https://github.com/captbrando/PCI-Compliance-5th-Edition/discussions). [Join our Discord](https://discord.gg/vKyvrgKCnp)!
 
 ## What This Book is About
 If you are like most information technology and information security professionals, the idea of becoming compliant with PCI DSS or countless other regulations doesn't sound fun. It's much more common to associate compliance efforts with pain. Whether it's the pain of not knowing what to do, pain of failing your first assessment, or pain of complying without any budget, there are plenty of challenges for anyone tasked with doing this well.
