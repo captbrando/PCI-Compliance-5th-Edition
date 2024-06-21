@@ -28,7 +28,8 @@ You can use the book during the entire lifecycle from complete PCI unawareness t
 ## Useful PCI DSS materials
 
 * [The PCI Security Standards Council Website](https://pcisecuritystandards.org)
-* [PCI DSS 4.0](https://www.pcisecuritystandards.org/documents/PCI-DSS-v4_0.pdf)
+* [PCI DSS 4.0.1](https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI-DSS-v4_0_1.pdf)
+* [Summary of Changes from 4.0 to 4.0.1](https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI-DSS-v4-0-to-v4-0-1-Summary-of-Changes.pdf)
 * [Summary of Changes from 3.2.1 to 4.0](https://www.pcisecuritystandards.org/documents/PCI-DSS-v3-2-1-to-v4-0-Summary-of-Changes-r1.pdf)
 * [PCI DSS 4.0 At a Glance](https://www.pcisecuritystandards.org/documents/PCI-DSS-v4-0-At-A-Glance.pdf?agreement=true&time=1653413091750)
 * [PCI DSS FAQs](https://www.pcisecuritystandards.org/faqs)
@@ -43,7 +44,7 @@ Even though Anton was not a part of the 5th Edition of this book, we wanted to b
 * “[The Seven Deadly Sins of a QSA](https://www.brandenwilliams.com/brwpubs/Seven%20Deadly%20Sins%20of%20a%20QSA.pdf)” by Branden 
 * “[The Art of the Compensating Control](https://www.brandenwilliams.com/brwpubs/TheArtoftheCompensatingControl.pdf)” by Branden 
 * "[Consumer Attitudes Toware Breaches, How Consumers React to Retail Breaches](https://www.brandenwilliams.com/brwpubs/Consumer%20Attitudes%20Toward%20Breaches_FINAL.pdf)", by Branden 
-* “[How Tokenization and Encryption can enable PCI DSS compliance,](https://www.sciencedirect.com/science/article/abs/pii/S1363412711000161)” Information Security Technical Report (ISTR2187), Elsevier (February 2011), by Branden Williams
+* “[How Tokenization and Encryption can enable PCI DSS compliance,](https://www.sciencedirect.com/science/article/abs/pii/S1363412711000161)” Information Security Technical Report (ISTR2187), Elsevier (February 2011), by Branden
 * “[Security First or Compliance First?](https://www.slideshare.net/anton_chuvakin/compliance-first-or-security-first)” by Anton 
 * “[How to Stay Compliant? or Ongoing Tasks in PCI DSS](http://chuvakin.blogspot.com/2009/01/how-to-stay-compliant-or-ongoing-tasks.html)” by Anton 
 * “[More on PCI DSS and Logging](http://chuvakin.blogspot.com/2010/01/more-on-pci-dss-and-logging.html)” by Anton 
@@ -54,13 +55,6 @@ Even though Anton was not a part of the 5th Edition of this book, we wanted to b
 Presentations by the authors on PCI DSS:
 
 * “[The Mistakes QSAs Make](https://www.slideshare.net/BrandenWilliams/the-mistakes-qsas-make)” by Branden
-
-## PCI DSS Videos
-
-This section contains videos of exciting PCI DSS compliance discussions – with the PCI book authors playing a role:
-
-* [Tips to Get Ahead of PCI Compliance](https://www.youtube.com/watch?v=RmIDPlO1vts), RSA Conference 2013.
-* [PCI Done Right and Wrong](https://www.youtube.com/watch?v=Slcpuvapa2Y), SOURCE Boston 2010.
 
 ## PCI DSS tips
 
