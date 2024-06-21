@@ -25,11 +25,6 @@ You can use the book during the entire lifecycle from complete PCI unawareness t
 * Get the best experience out of what can be seen as a painful assessment process
 * Build your plans even if you are a small business
 
-## Book materials
-
-* View Table of Contents for “PCI Compliance”, 3rd edition
-* Download free sample chapter Chapter 3 “Why is PCI Here?”[PDF]
-
 ## Useful PCI DSS materials
 
 * [The PCI Security Standards Council Website](https://pcisecuritystandards.org)
